@@ -15,7 +15,7 @@ Target: ivr-changenumber,s,1
 Create Custom trunk called "NumChange"
 Dial String local/s@macro-hangupcall to catch any calls that might use it by mistake
 
-Create an outbound route matching a dial pattern for your new new extension numbers, ime using 4295.
+Create an outbound route matching a dial pattern 4295.
 Make sure the route type is intra-Company
 Trunk Sequence will be the custom trunk
 
