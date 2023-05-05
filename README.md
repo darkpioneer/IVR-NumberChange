@@ -2,9 +2,9 @@
 IVR to change extension number on the fly on a FreePBX server
 
 # Presumptions
-The new extension numbers start 4295xxxx
-VG224 analogue voice gateway has default extensions starting 422xx
-You have custom audio recordings, enter-new-number, enter-new-number, number-must-start-with-429
+- The new extension numbers start 4295xxxx
+- VG224 analogue voice gateway has default extensions starting 422xx
+- You have custom audio recordings, enter-new-number, enter-new-number, number-must-start-with-429
 
 # FreePBX Settings
 set "NoOp Traces in Dialplan" to 1 in advanced settings
